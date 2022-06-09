@@ -17,7 +17,7 @@
 
 ### 3. Visualization
 
-Sentiment Analysis and Visaulize on GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com//https://github.com/alexdseo/Sentiment-analysis-on-scraped-news-article/blob/master/Sentiment_Analysis_gpu.ipynb)
+Sentiment Analysis and Visaulize on GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com//github.com/alexdseo/Sentiment-analysis-on-scraped-news-article/blob/master/Sentiment_Analysis_gpu.ipynb)
 
 - In this notebook 
 
