@@ -51,7 +51,7 @@ conda activate venv
 3. Install requirements:
 ```
 conda install pip
-pip install -r requirements-gpu.txt
+pip install -r requirements.txt
 ```
 
 4. Run Python scripts:
